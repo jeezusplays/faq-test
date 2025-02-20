@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Virtual Lab Benefits
-nav_order: 4
-has_children: false
+nav_order: 2
+parent: Coding
 permalink: virtual_lab_benefits/
 ---
 # FAQ - Virtual Lab Benefits
@@ -82,7 +82,7 @@ Enable GUI-based courses through the Ubunu/Linux interface. This is an option on
 
 Files can be uploaded via Vocareum’s file tree or VSCode file upload feature.
 
-![upload](../vocareum/images/upload.gif)
+![upload](../platform/images/upload.gif)
 
 For more details, please see [https://suss-vli.github.io/faq/vocareum/#how-do-i-upload-my-work-to-vocareum](https://suss-vli.github.io/faq/vocareum/#how-do-i-upload-my-work-to-vocareum)
 
