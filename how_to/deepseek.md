@@ -60,5 +60,4 @@ To run DeepSeek R1 locally, follow any of these options:
 ](https://img.youtube.com/vi/G5BDBYQAJEs/0.jpg)](https://www.youtube.com/watch?v=G5BDBYQAJEs)
 
 3. **Running Model Locally using llama.cpp**
-https://huggingface.co/unsloth/DeepSeek-R1-GGUF
-
+  - [Link to Hugging Face](https://huggingface.co/unsloth/DeepSeek-R1-GGUF)
